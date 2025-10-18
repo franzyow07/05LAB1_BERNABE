@@ -1,0 +1,7 @@
+Student No.: 02000322922
+Full Name: Bernabe, Franz Adrian, mmM
+Program: BSIT
+Gender: Male
+Age: 25
+Birthday: 2001-07-09
+Contact No.: 09222222222
